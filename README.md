@@ -1,6 +1,6 @@
-# 300mm FORMBOT kit 
-### 12/20 Update:
-#### CanBus w/ BTT EBB36 & BTT U2C
+# 300mm Formbot Trident Kit 
+### 10/30/25 Update:
+#### LDO Nitehawk 36 / USB
 #### Sensorless Homing
-#### Voron Tap
+#### Cartographer
 #### DragonBurner / Galileo 2 Stand Alone
