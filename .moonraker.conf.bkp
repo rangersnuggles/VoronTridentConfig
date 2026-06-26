@@ -131,3 +131,7 @@ is_system_service = False
 info_tags = 
 	desc=AFC KlipperScreen Add On
 
+[spoolman]
+server = http://192.168.5.41:7912
+sync_rate = 5
+
